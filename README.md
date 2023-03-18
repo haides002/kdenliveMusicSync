@@ -13,5 +13,4 @@ OFFSET = 0
 SONGLENGTH = 16654
 ```
 these variables gave me the markers I needed and i put them in the <property ```name="kdenlive:markers">[]``` list in the audiotrack.
-And I created this [ULTRAKILL](devilmayquake.com) clip compilation.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c3mXKyQGOtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+And I created [this](https://youtu.be/c3mXKyQGOtU) [ULTRAKILL](https://devilmayquake.com) clip compilation.
