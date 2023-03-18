@@ -1,8 +1,8 @@
 # kdenliveMusicSync
-A lil python script, that creates json for your kdenlive projec, in order to get markers on every single beat of a so.
+A lil python script, that creates xml for your kdenlive projec, in order to get markers on every single beat of a so.
 
 ## Usage
-You edit the Variables at the top of the file in order to make it match your song. Then you paste the output of the script into your Kdenlive project. Id suggest you **make a backup** before you tamper with the project file. I would recommend only using this if you know at least a bit about json.
+You edit the Variables at the top of the file in order to make it match your song. Then you paste the output of the script into your Kdenlive project. Id suggest you **make a backup** before you tamper with the project file. I would recommend only using this if you know at least a bit about xml.
 
 ## Example
 ``` python
